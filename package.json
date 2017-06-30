@@ -1,6 +1,6 @@
 {
   "name": "@player1os/class-mixin-decorator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library defining a decorator for applying mixins to a class",
   "private": false,
   "main": "index.js",
